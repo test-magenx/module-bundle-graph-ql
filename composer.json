@@ -1,5 +1,5 @@
 {
-    "name": "test-magenx/module-bundle-graph-ql",
+    "name": "magenxcommerce/module-bundle-graph-ql",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
